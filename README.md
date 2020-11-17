@@ -48,3 +48,13 @@
 ```bash
    Temperature
 ```
+![img](https://i.imgur.com/xH1U2kP.png)
+
+```bash
+   Menu
+```
+![img](https://i.imgur.com/Z6gj8K6.png)
+
+```bash
+   Map
+```
